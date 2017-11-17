@@ -3,7 +3,7 @@ let DEMO1 = types.DEMO1;
 
 // 定义数据
 const state = {
-  number: 1
+  number: 2
 };
 const mutations = {
   [DEMO1.ADD](state, payload) {
