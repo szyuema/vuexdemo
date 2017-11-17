@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <router-view/>
-    <demo2></demo2>
+    <!-- <demo2></demo2>
     <demo3></demo3>
-    <cinput v-model="price"></cinput>
+    <cinput v-model="price"></cinput> -->
 
   </div>
 </template>
